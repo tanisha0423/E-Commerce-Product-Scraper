@@ -1,6 +1,5 @@
 # E-Commerce Product Scraper
 
-This project is an **internship task for CantiLever**.  
 It is a **Flask-based web application** that scrapes product data (title, rating, price, description, etc.) from **Snapdeal**, stores it in Excel, and displays it with a clean, searchable user interface.
 
 ## Live Demo
